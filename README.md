@@ -1,3 +1,5 @@
 # RLECompressor
 
-Compression program that can compress files using a modified form of RLE.
+Compression program that uses a modified form of Run-Length Encoding.
+
+To run, download the xcode project and choose a file under edit scheme to compress.
